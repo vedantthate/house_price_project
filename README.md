@@ -146,7 +146,7 @@ These help guide users to input realistic values.
 
 ## 📝 Author
 
-**Damini Gudape**
+**Vedant thate**
 
 ------------------------------------------------------------------------
 
